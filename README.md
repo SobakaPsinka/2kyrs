@@ -22,6 +22,7 @@ You first need to clone the project locally:
 git clone https://github.com/spring-projects/spring-petclinic.git
 cd spring-petclinic
 # CHANGE FROM BRANCH1 - COMMIN
+# CHANGE FROM BRANCH1 - COMMIN 2
 ```
 If you are using Maven, you can start the application on the command-line as follows:
 
