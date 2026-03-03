@@ -23,6 +23,7 @@ git clone https://github.com/spring-projects/spring-petclinic.git
 cd spring-petclinic
 # CHANGE FROM BRANCH1 - COMMIN
 # CHANGE FROM BRANCH1 - COMMIN 2
+# CHANGE FROM BRANCH1 - COMMIT 3
 ```
 If you are using Maven, you can start the application on the command-line as follows:
 
